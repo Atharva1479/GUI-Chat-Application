@@ -12,7 +12,7 @@ Explore the world of seamless communication with our User-Friendly GUI Chat Appl
 Follow these steps to get started with the GUI Chat Application:
 
 1. **Clone the Repository:**
-  
+     https://github.com/Atharva1479/GUI-Chat-Application.git
 
 2. **Open in Java IDE:**
    Open the project in your preferred Java development environment (IDE).
